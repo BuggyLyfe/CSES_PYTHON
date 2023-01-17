@@ -27,4 +27,4 @@ if x%2==0:
     print(len(lst2))
     print(*lst2)
 else:
-    print("NO SOLUTION")
+    print("NO")
